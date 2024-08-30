@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.why__titles{
+  max-width: 500px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 92px;
+}
+
+.why__pastki{
+  display: flex;
+}
+
+.pastki-one{
+  margin-right: 95px;
+  margin-top: 74px;
+}
+
+.pastki-two{
+  margin-top: 104px ;
+}
+
+.why__pastki-img{
+  width: 541px;
+  height: 419px;
+  top: 1832px;
+  left: 244px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.pastki__card{
+  display: flex;
+  max-height: 40px;
+  margin-bottom: 40px;
+}
+
+.pastki__card-btn{
+  padding: 5px 15px;
+  background: #b1acef;
+  border-radius: 36px;
+  margin-right: 22px;
+  margin-top: 6px;
+  border: none;
+  color: #1100ff;
+}
+
+.pastki__card-title{
+  font-size: 21px;
+  font-weight: 700;
+  color: #161C2D;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pastki__card-text{
+  margin-top: 10px;
+  max-width: 300px;
+}
